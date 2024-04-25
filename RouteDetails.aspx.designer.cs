@@ -10,15 +10,15 @@
 namespace BusBookingProject.Admin {
     
     
-    public partial class BookingReport {
+    public partial class RouteDetails {
         
         /// <summary>
-        /// gdTicketReport control.
+        /// gdRouteDetails control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gdTicketReport;
+        protected global::System.Web.UI.WebControls.GridView gdRouteDetails;
     }
 }
